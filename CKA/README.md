@@ -1,4 +1,13 @@
-# KodeKloud - CKA Certification Course - Certified Kubernetes Administrator
+# CKA Study Homepage
+
+## Notes Index
+
+1. [Core Concepts](/CKA/1-core-concepts.md)
+2. 
+
+
+
+## KodeKloud - CKA Certification Course - Certified Kubernetes Administrator
 
 - **Duration:** 25.52 Hours
 - **Link:** [CKA Certification Course](https://learn.kodekloud.com/courses/cka-certification-course-certified-kubernetes-administrator)
@@ -8,7 +17,7 @@
  - 317 Lessons 
 
 
-## Course Content
+### Course Content
 1. Introduction - 4 Lessons
 2. Core Concepts - 42 Lessons
 3. Scheduling - 39 Lessons
