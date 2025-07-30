@@ -1,4 +1,4 @@
-# kubernetes-notes
+# Kubernetes-notes
 Revision Notes for Kubernetes exams
 
 
